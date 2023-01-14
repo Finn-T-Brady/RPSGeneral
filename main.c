@@ -1,3 +1,4 @@
+//This program is just to test that library works, you can ignore this
 #include <stdio.h>
 #include <stdlib.h>
 
